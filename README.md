@@ -4,9 +4,6 @@ My website made by [Content Wind](https://content-wind.nuxt.space) theme.
 
 ## Setup
 
-```bash
-npm install
-```
 
 ## Development
 
